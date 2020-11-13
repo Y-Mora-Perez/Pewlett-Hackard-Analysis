@@ -9,3 +9,53 @@
 
 ![](Table%20Schema.png)
 
+
+### Delivering Results: Technical Report
+
+**Summary Results**
+
+Number of individuals retiring:
+
+![](Individuals%20Retiring.png)
+
+![](num_retiring_emp.PNG)
+
+(90,398 is the number of indiividuals available for mentorship role)
+
+
+![](Mentors.png)
+
+![](num_mentors.PNG)
+
+**Recommendation**
+
+According to the data 
+- There are multiple duplicate: need to clear duplicates
+- Maximum number of senior enineers are retireing: need to act on it
+
+
+
+### Technical Deliverable 1
+
+**Table with retiring employees (create a table containing the number of employees who are about to retire: those born 1952-1955)**
+
+
+![](About%20to%20retire.png)
+
+**No duplicates**
+
+![](Filter%20Duplicates.png)
+
+![](Retire%20by%20title.png)
+
+### Technical Deliverable 2
+
+**Mentor employees will need to have a date of birth that falls between January 1, 1965 and December 31, 1965**
+
+![](Eligible%20Mentors.png)
+
+
+Total number of eligible mentors are 1549. 
+
+
+
